@@ -1,0 +1,41 @@
+#wrapper
+{
+          width: 1000px;
+          margin: 0px auto;
+}
+#nd1
+{
+          width: 450px;
+          float: left;
+}
+#nd1 img
+{
+          width: 100px;
+          height: 100px;
+          float:left;
+
+}
+
+#mờ
+{
+          opacity: 0.5;
+}
+#xanh
+{
+          color: blue;
+}
+#nd2
+{
+          width: 300px;
+          height: 330px;
+          background-color: dimgrey;
+          float: left;
+}
+#nd3
+{
+          width: 220px;
+          height: 500px;
+          float: left;
+          background-color:tomato;
+          margin-left: 10px;
+}
